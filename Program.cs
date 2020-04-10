@@ -42,6 +42,7 @@ namespace P01_HelloCodeFirst
                 Console.WriteLine("After:");
                 Retrieve(context);
 
+                Delete(context); //để xóa bảng ghi
             }
 
 
@@ -49,6 +50,15 @@ namespace P01_HelloCodeFirst
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+        }
+        private static void Delete(Context context)
+        {
+            var person = context.People.FirstOrDefault();
+            if (person != null)
+            {
+                context.People.Remove(person);
+                context.SaveChanges();
+            }
         }
         private static void Update(Context context)
         {
