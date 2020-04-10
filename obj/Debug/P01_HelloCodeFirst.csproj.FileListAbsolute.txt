@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\bin\Debug\P01_HelloCodeFirst.exe.config
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\bin\Debug\P01_HelloCodeFirst.exe
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\bin\Debug\P01_HelloCodeFirst.pdb
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\obj\Debug\P01_HelloCodeFirst.Properties.Resources.resources
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\obj\Debug\P01_HelloCodeFirst.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\obj\Debug\P01_HelloCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\obj\Debug\P01_HelloCodeFirst.csproj.CopyComplete
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\obj\Debug\P01_HelloCodeFirst.exe
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\obj\Debug\P01_HelloCodeFirst.pdb
+C:\Users\admin\Desktop\WindowsFormEntityFrameWork\P01_HelloCodeFirst\obj\Debug\P01_HelloCodeFirst.csprojAssemblyReference.cache
